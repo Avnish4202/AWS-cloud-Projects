@@ -18,3 +18,8 @@ Successfully hosted a static website on Amazon S3.
 
 ## Screenshots
 Screenshots are available in the screenshots folder.
+## Screenshots
+
+![Bucket Created](screenshots/bucket-created.png)
+![Static Website Enabled](screenshots/static-hosting-enabled.png)
+![Website Output](screenshots/website-output.png)
