@@ -19,3 +19,8 @@ Successfully accessed S3 securely using IAM role.
 
 ## Screenshots
 Screenshots are available in the screenshots folder.
+# Screenshots
+
+![IAM Role Created](screenshots/iam-role-created.png)
+![Role Attached to EC2](screenshots/role-attached-to-ec2.png)
+![S3 Access from EC2](screenshots/s3-access-from-ec2.png)
