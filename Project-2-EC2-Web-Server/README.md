@@ -24,4 +24,4 @@ Screenshots are available in the screenshots folder.
 
 ![EC2 Running](screenshots/ec2-instance-running.png)
 ![Apache Installed](screenshots/apache-installed.png)
-![Website Output](screenshots/website-output).
+![Website Output](screenshots/website-output)
