@@ -20,10 +20,10 @@ A fully functional web server deployed using Infrastructure as Code.
 ## 📸 Screenshots
 
 ### Stack Created
-![Stack Created](stack.png)
+![Stack Created](screenshorts/stack.png)
 
 ### EC2 Running
-![EC2 Running](instance.png)
+![EC2 Running](screenshorts/instance.png)
 
 ### Website Output
-![Website](output.png)
+![Website](screenshorts/output.png)
